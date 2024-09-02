@@ -13,5 +13,10 @@ testtest
 
 https://github.com/user-attachments/assets/3041be76-1dae-4d40-87f4-11f791f4b4ce
 
+rumble 1
 
 <video src='https://rumble.com/v5bafpg-ecdo-arctic-ocean.html'></video>
+
+rumble2
+
+<video src='https://rumble.com/embed/v58y798/?pub=4'></video>
