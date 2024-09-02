@@ -20,3 +20,6 @@ rumble 1
 rumble2
 
 <video src='https://rumble.com/embed/v58y798/?pub=4'></video>
+
+https://github.com/user-attachments/assets/f298227f-e7dd-4c9c-bb51-791d9aeda2c5
+
